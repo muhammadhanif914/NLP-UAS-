@@ -1,6 +1,6 @@
 # Model Weights (Large Files > 100MB)
-best_indobert_model.pt/
-best_indobertweet_model.pt/
+best_indobert_model.pt
+best_indobertweet_model.pt
 best_indobert_model_temp.pt
 best_indobertweet_model_temp.pt
 backend/models/
